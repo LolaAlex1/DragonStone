@@ -1,0 +1,10 @@
+# Ignore uploaded images
+/uploads/
+
+# OS junk files
+.DS_Store
+
+# IDE / editor folders
+.vscode/
+.idea/
+
